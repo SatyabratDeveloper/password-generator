@@ -1,6 +1,9 @@
 # About The Project
+![Screenshot 2023-11-15 124444](https://github.com/SatyabratDeveloper/password-generator/assets/105938687/183369c1-33cc-475b-8938-cf3e4b95d455)
+![Screenshot 2023-11-15 124611](https://github.com/SatyabratDeveloper/password-generator/assets/105938687/6f0a35cb-9543-49d4-9b75-ef6c57431dcd)
 
-Welcome to the Password Generator – your easy-to-use tool for creating strong and personalized passwords. In a world where online security is crucial, our app makes it simple to generate robust passwords that suit your needs.
+
+Welcome to the `Secure Pass`(password-generator) – your easy-to-use tool for creating strong and personalized passwords. In a world where online security is crucial, our app makes it simple to generate robust passwords that suit your needs.
 
 ## Features
 
@@ -22,7 +25,7 @@ Once you've crafted your perfect password, a simple click on the copy button put
 
 # Built With
 
-The major frameworks/libraries used for this project:
+The major frameworks/libraries used to built the project:
 
 -   React
 -   JavaScript
@@ -32,7 +35,7 @@ The major frameworks/libraries used for this project:
 
 ## Installation
 
-You need to follow these steps to install and setup your file.
+You need to follow these steps to install and setup the Secure Pass.
 
 1. Clone the repo
 
